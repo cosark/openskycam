@@ -92,6 +92,10 @@ npm install
 make check               # every test suite, the docs build and shell lint; needs no Cloudflare account
 ```
 
+## One-Click Deploy
+
+[![Deploy on RepoCloud](https://d16t0pc4846x52.cloudfront.net/deploylobe.svg)](https://repocloud.io/details/OpenSkyCam/)
+
 ## Run it with your agent
 
 openskycam is built for an AI agent to operate:
